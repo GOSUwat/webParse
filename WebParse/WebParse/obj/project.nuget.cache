@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4HWhrTWy0OWF8u+Oc7tcHO++YtDZTbhaNOdMSEaRQCTTlPHo8BuURSBM+AM4z+JBO05GnzyEKi0nUzCxdA3qKw==",
+  "success": true,
+  "projectFilePath": "E:\\webParse\\WebParse\\WebParse\\WebParse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GOSU\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\GOSU\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

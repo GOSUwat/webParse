@@ -1,0 +1,15 @@
+E:\webParse\WebParse\WebParse\bin\Debug\net7.0\WebParse.exe
+E:\webParse\WebParse\WebParse\bin\Debug\net7.0\WebParse.deps.json
+E:\webParse\WebParse\WebParse\bin\Debug\net7.0\WebParse.runtimeconfig.json
+E:\webParse\WebParse\WebParse\bin\Debug\net7.0\WebParse.dll
+E:\webParse\WebParse\WebParse\bin\Debug\net7.0\WebParse.pdb
+E:\webParse\WebParse\WebParse\obj\Debug\net7.0\WebParse.csproj.AssemblyReference.cache
+E:\webParse\WebParse\WebParse\obj\Debug\net7.0\WebParse.GeneratedMSBuildEditorConfig.editorconfig
+E:\webParse\WebParse\WebParse\obj\Debug\net7.0\WebParse.AssemblyInfoInputs.cache
+E:\webParse\WebParse\WebParse\obj\Debug\net7.0\WebParse.AssemblyInfo.cs
+E:\webParse\WebParse\WebParse\obj\Debug\net7.0\WebParse.csproj.CoreCompileInputs.cache
+E:\webParse\WebParse\WebParse\obj\Debug\net7.0\WebParse.dll
+E:\webParse\WebParse\WebParse\obj\Debug\net7.0\refint\WebParse.dll
+E:\webParse\WebParse\WebParse\obj\Debug\net7.0\WebParse.pdb
+E:\webParse\WebParse\WebParse\obj\Debug\net7.0\WebParse.genruntimeconfig.cache
+E:\webParse\WebParse\WebParse\obj\Debug\net7.0\ref\WebParse.dll
